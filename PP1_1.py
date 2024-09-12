@@ -7,6 +7,7 @@ def q1():
 def q2():
   #Write Assignment code here
   print(1)
+  print(2)
   
 def q3():
   #Write Assignment code here
